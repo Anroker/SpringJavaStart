@@ -13,7 +13,10 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring.version>5.0.6.RELEASE</spring.version>
-        <spring-data.version>2.1.8.RELEASE</spring-data.version>
+        <spring-data.version>2.0.7.RELEASE</spring-data.version>
+        <!--
+            2.0.7 work, but vulnerable as git suggests
+            -->
         <hibernate.version>5.3.1.Final</hibernate.version>
         <mysql.connector.version>5.1.47</mysql.connector.version>
         <dbcp.version>2.3.0</dbcp.version>
