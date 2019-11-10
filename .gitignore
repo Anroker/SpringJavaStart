@@ -1,6 +1,15 @@
+#User Disabled
+*.md
+target/
+
 #IntelliJ
 .idea
 *.iml
+
+#Maven
+.mvn
+mvnw
+mvnw.cmd
 
 # Compiled class file
 *.class
